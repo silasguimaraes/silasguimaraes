@@ -66,8 +66,6 @@ Gosto de explorar diferentes áreas da tecnologia, desenvolver projetos prático
 
 <div align="center">
 
-  <p>Até o código precisa de uma pausa. 🍎</p>
-
 <img src="https://raw.githubusercontent.com/silasguimaraes/silasguimaraes/output/snake.svg" alt="Animação da cobrinha"/>
 
 </div>
