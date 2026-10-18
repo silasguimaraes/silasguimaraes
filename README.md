@@ -69,7 +69,7 @@ Gosto de explorar diferentes áreas da tecnologia, desenvolver projetos prático
 
   <p>Até o código precisa de uma pausa. 🍎</p>
 
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" alt="Animação da cobrinha percorrendo as contribuições do GitHub"/>
+<img src="https://raw.githubusercontent.com/silasguimaraes/silasguimaraes/output/snake.svg" alt="Animação da cobrinha"/>
 
 </div>
 
