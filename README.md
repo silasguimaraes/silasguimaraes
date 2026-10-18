@@ -23,6 +23,21 @@
 
 </div>
 
+<div align="center">
+
+  <h2>Snake Zone </h2>
+
+  <p>Um pequeno toque de diversão no meu perfil!</p>
+
+  <img
+    src="./snake-demo.gif"
+    width="400"
+    alt="Cobrinha amarela e maçã vermelha"
+  />
+
+</div>
+
+
 ---
 
 ## 🟡 Sobre mim
