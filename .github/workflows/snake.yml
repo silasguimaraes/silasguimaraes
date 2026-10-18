@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=%2300FF00&color_dots=%23FFCCCC,%23FF9999,%23FF6666,%23FF3333,%23FF0000
-            dist/snake-dark.svg?palette=github-dark&color_snake=%2300FF00&color_dots=%23FFCCCC,%23FF9999,%23FF6666,%23FF3333,%23FF0000
+            dist/snake.svg?color_snake=lime&color_dots=%23FFEEEE,%23FFBBBB,%23FF7777,%23FF3333,%23CC0000
+            dist/snake-dark.svg?palette=github-dark&color_snake=lime&color_dots=%23FFEEEE,%23FFBBBB,%23FF7777,%23FF3333,%23CC0000
 
       - name: Publicar animação
         uses: crazy-max/ghaction-github-pages@v4
