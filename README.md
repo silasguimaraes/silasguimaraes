@@ -52,7 +52,7 @@ Gosto de explorar diferentes áreas da tecnologia, desenvolver projetos prático
       <h3>Planeja+</h3>
       Plataforma de gestão financeira para microempreendedores, com controle de receitas, despesas, fluxo de caixa e gráficos.
       <br/><br/>
-      <a href="https://github.com/silasguimaraes/planeja-plus">Ver projeto →</a>
+      <a href="https://github.com/silasguimaraes/PlanejaPlus">Ver projeto →</a>
     </td>
     <td width="50%">
       <h3>PROJETO J.O.G.A</h3>
